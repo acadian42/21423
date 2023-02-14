@@ -1,0 +1,1326 @@
+WARNING
+WARNING - No users are defined, use `/opt/arkime/bin/arkime_add_user.sh` to add one
+WARNING
+WARNING - No cronQueries=true found in /opt/arkime/etc/config.ini, one and only one node MUST have cronQueries=true set for cron/hunts to work
+Express server listening on port 8005 in development mode
+Fri, 10 Feb 2023 14:50:05 GMT - [1mGET[0m [33m/[0m 401 - bytes 1.258 ms
+Fri, 10 Feb 2023 14:50:09 GMT - [1mGET[0m [33m/[0m 401 - bytes 5.347 ms
+Fri, 10 Feb 2023 14:50:34 GMT - [1mGET[0m [33m/[0m 401 - bytes 18.148 ms
+Fri, 10 Feb 2023 14:51:16 GMT - [1mGET[0m [33m/[0m 401 - bytes 4.106 ms
+WARNING
+WARNING - No users are defined, use `/opt/arkime/bin/arkime_add_user.sh` to add one
+WARNING
+WARNING - No cronQueries=true found in /opt/arkime/etc/config.ini, one and only one node MUST have cronQueries=true set for cron/hunts to work
+Express server listening on port 8005 in development mode
+Fri, 10 Feb 2023 14:52:10 GMT - [1mGET[0m [33m/[0m 401 - bytes 1.119 ms
+User admin doesn't exist
+Fri, 10 Feb 2023 14:52:12 GMT - [1mGET[0m [33m/[0m 401 - bytes 5.632 ms
+User bear doesn't exist
+Fri, 10 Feb 2023 14:52:14 GMT - [1mGET[0m [33m/[0m 401 - bytes 3.974 ms
+Fri, 10 Feb 2023 14:56:49 GMT bear [1mGET[0m [33m/[0m 302 60 bytes 5.674 ms
+Fri, 10 Feb 2023 14:56:49 GMT bear [1mGET[0m [33m/sessions[0m 200 - bytes 24.337 ms
+Fri, 10 Feb 2023 14:56:50 GMT - [1mGET[0m [33m/font-awesome/css/font-awesome.min.css[0m 200 - bytes 13.444 ms
+Fri, 10 Feb 2023 14:56:50 GMT bear [1mGET[0m [33m/static/js/runtime.51dcfe86fb4362b560a3.js[0m 200 - bytes 12.351 ms
+Fri, 10 Feb 2023 14:56:50 GMT bear [1mGET[0m [33m/static/css/app.4a490ff5e17e1500fd7b.css[0m 200 - bytes 4.273 ms
+Fri, 10 Feb 2023 14:56:50 GMT bear [1mGET[0m [33m/static/js/app.4a490ff5e17e1500fd7b.js[0m 200 - bytes 6.645 ms
+Fri, 10 Feb 2023 14:56:50 GMT - [1mGET[0m [33m/assets/Arkime_Logo_Mark_White.png[0m 200 2525 bytes 12.684 ms
+Fri, 10 Feb 2023 14:56:50 GMT - [1mGET[0m [33m/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0[0m 200 77160 bytes 4.037 ms
+Fri, 10 Feb 2023 14:56:50 GMT - [1mGET[0m [33m/favicon.ico[0m 200 - bytes 2.887 ms
+Fri, 10 Feb 2023 14:56:51 GMT bear [1mGET[0m [33m/api/appinfo[0m 200 - bytes 566.760 ms
+Fri, 10 Feb 2023 14:56:51 GMT bear [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 0.935 ms
+Fri, 10 Feb 2023 14:56:51 GMT bear [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 0.594 ms
+Fri, 10 Feb 2023 14:56:51 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 35.269 ms
+Fri, 10 Feb 2023 14:56:51 GMT bear [1mGET[0m [33m/static/js/317.1a505d234de364561e71.js[0m 200 - bytes 3.639 ms
+Fri, 10 Feb 2023 14:56:51 GMT bear [1mGET[0m [33m/static/js/803.fedc3161fc46ab27ab46.js[0m 200 - bytes 3.334 ms
+Fri, 10 Feb 2023 14:56:51 GMT bear [1mGET[0m [33m/static/js/652.73749b91da140bf0165e.js[0m 200 - bytes 2.432 ms
+Fri, 10 Feb 2023 14:57:00 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.291 ms
+Fri, 10 Feb 2023 14:57:10 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 13.983 ms
+Fri, 10 Feb 2023 14:57:20 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.239 ms
+Fri, 10 Feb 2023 14:57:30 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.743 ms
+Fri, 10 Feb 2023 14:57:40 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.310 ms
+Fri, 10 Feb 2023 14:57:50 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 30.683 ms
+Fri, 10 Feb 2023 14:58:00 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.326 ms
+Fri, 10 Feb 2023 14:58:10 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.330 ms
+Fri, 10 Feb 2023 14:58:20 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.221 ms
+Fri, 10 Feb 2023 14:58:30 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.143 ms
+Fri, 10 Feb 2023 14:58:40 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.271 ms
+Fri, 10 Feb 2023 14:58:50 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 6.935 ms
+Fri, 10 Feb 2023 14:59:00 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.238 ms
+Fri, 10 Feb 2023 14:59:10 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.547 ms
+Fri, 10 Feb 2023 14:59:20 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.333 ms
+Fri, 10 Feb 2023 14:59:30 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.290 ms
+Fri, 10 Feb 2023 14:59:40 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.330 ms
+Fri, 10 Feb 2023 14:59:50 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 21.167 ms
+WARNING
+WARNING - No users are defined, use `/opt/arkime/bin/arkime_add_user.sh` to add one
+WARNING
+WARNING - No cronQueries=true found in /opt/arkime/etc/config.ini, one and only one node MUST have cronQueries=true set for cron/hunts to work
+Express server listening on port 8005 in development mode
+Fri, 10 Feb 2023 15:00:30 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.927 ms
+Fri, 10 Feb 2023 15:00:40 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.416 ms
+Fri, 10 Feb 2023 15:00:50 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.268 ms
+User bear doesn't exist
+Fri, 10 Feb 2023 15:00:51 GMT - [1mGET[0m [33m/sessions[0m 401 - bytes 3.730 ms
+User bear doesn't exist
+Fri, 10 Feb 2023 15:00:54 GMT - [1mGET[0m [33m/sessions[0m 401 - bytes 4.197 ms
+User bear doesn't exist
+Fri, 10 Feb 2023 15:00:58 GMT - [1mGET[0m [33m/sessions[0m 401 - bytes 4.053 ms
+Fri, 10 Feb 2023 15:02:02 GMT bear [1mGET[0m [33m/sessions[0m 200 - bytes 18.106 ms
+Fri, 10 Feb 2023 15:02:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.101 ms
+Fri, 10 Feb 2023 15:02:02 GMT bear [1mGET[0m [33m/api/appinfo[0m 200 - bytes 53.451 ms
+Fri, 10 Feb 2023 15:02:02 GMT bear [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 0.976 ms
+Fri, 10 Feb 2023 15:02:02 GMT bear [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 0.462 ms
+Fri, 10 Feb 2023 15:02:02 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 20.069 ms
+Fri, 10 Feb 2023 15:02:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 8.962 ms
+Fri, 10 Feb 2023 15:02:22 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.333 ms
+Fri, 10 Feb 2023 15:02:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.138 ms
+Fri, 10 Feb 2023 15:02:42 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.236 ms
+Fri, 10 Feb 2023 15:02:52 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.785 ms
+Fri, 10 Feb 2023 15:03:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.380 ms
+Fri, 10 Feb 2023 15:03:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.070 ms
+Fri, 10 Feb 2023 15:03:22 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.327 ms
+Fri, 10 Feb 2023 15:03:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.846 ms
+Fri, 10 Feb 2023 15:03:42 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.342 ms
+Fri, 10 Feb 2023 15:03:52 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.661 ms
+Fri, 10 Feb 2023 15:04:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.256 ms
+Fri, 10 Feb 2023 15:04:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 15.420 ms
+Fri, 10 Feb 2023 15:04:17 GMT bear [1mGET[0m [33m/sessions[0m 200 - bytes 5.016 ms
+Fri, 10 Feb 2023 15:04:19 GMT bear [1mGET[0m [33m/api/appinfo[0m 200 - bytes 681.662 ms
+Fri, 10 Feb 2023 15:04:19 GMT bear [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 0.656 ms
+Fri, 10 Feb 2023 15:04:19 GMT bear [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 0.463 ms
+Fri, 10 Feb 2023 15:04:19 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 18.003 ms
+Fri, 10 Feb 2023 15:04:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.238 ms
+Fri, 10 Feb 2023 15:04:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.265 ms
+Fri, 10 Feb 2023 15:04:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.950 ms
+Fri, 10 Feb 2023 15:04:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.219 ms
+Fri, 10 Feb 2023 15:04:59 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&desc=false&hide=none[0m 200 48 bytes 66.201 ms
+Fri, 10 Feb 2023 15:04:59 GMT bear [1mGET[0m [33m/static/js/455.11f46b43d37682739dae.js[0m 200 - bytes 4.145 ms
+Fri, 10 Feb 2023 15:04:59 GMT bear [1mGET[0m [33m/static/js/730.39f102188d0bb597ab1f.js[0m 200 - bytes 1.848 ms
+Fri, 10 Feb 2023 15:04:59 GMT bear [1mGET[0m [33m/static/js/26.11fb9bf6ae4554ccfe5e.js[0m 200 - bytes 1.518 ms
+Fri, 10 Feb 2023 15:05:01 GMT bear [1mGET[0m [33m/api/user/config/captureStats[0m 200 35 bytes 0.633 ms
+Fri, 10 Feb 2023 15:05:02 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.611 ms
+Fri, 10 Feb 2023 15:05:02 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 33.787 ms
+Fri, 10 Feb 2023 15:05:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.193 ms
+Fri, 10 Feb 2023 15:05:17 GMT bear [1mGET[0m [33m/api/user/config/esNodes[0m 200 35 bytes 4.588 ms
+Fri, 10 Feb 2023 15:05:17 GMT bear [1mGET[0m [33m/esstats.json?sortField=nodeName&desc=false[0m 200 - bytes 35.421 ms
+Fri, 10 Feb 2023 15:05:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.221 ms
+Fri, 10 Feb 2023 15:05:21 GMT bear [1mGET[0m [33m/api/user/config/captureStats[0m 200 35 bytes 0.457 ms
+Fri, 10 Feb 2023 15:05:21 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.257 ms
+Fri, 10 Feb 2023 15:05:21 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.702 ms
+Fri, 10 Feb 2023 15:05:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.637 ms
+Fri, 10 Feb 2023 15:05:37 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 16.087 ms
+Fri, 10 Feb 2023 15:05:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 18.825 ms
+Fri, 10 Feb 2023 15:05:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.216 ms
+Fri, 10 Feb 2023 15:05:52 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.843 ms
+Fri, 10 Feb 2023 15:05:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 20.338 ms
+Fri, 10 Feb 2023 15:06:07 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.922 ms
+Fri, 10 Feb 2023 15:06:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.096 ms
+Fri, 10 Feb 2023 15:06:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.541 ms
+Fri, 10 Feb 2023 15:06:22 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 36.683 ms
+Fri, 10 Feb 2023 15:06:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.149 ms
+Fri, 10 Feb 2023 15:06:37 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 15.200 ms
+Fri, 10 Feb 2023 15:06:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 30.951 ms
+Fri, 10 Feb 2023 15:06:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.390 ms
+Fri, 10 Feb 2023 15:06:52 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.093 ms
+Fri, 10 Feb 2023 15:06:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 21.299 ms
+Fri, 10 Feb 2023 15:07:07 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.975 ms
+Fri, 10 Feb 2023 15:07:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.455 ms
+Fri, 10 Feb 2023 15:07:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 17.923 ms
+Fri, 10 Feb 2023 15:07:22 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.127 ms
+Fri, 10 Feb 2023 15:07:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.017 ms
+Fri, 10 Feb 2023 15:07:37 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 15.057 ms
+Fri, 10 Feb 2023 15:07:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 32.175 ms
+Fri, 10 Feb 2023 15:07:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.530 ms
+Fri, 10 Feb 2023 15:07:53 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.611 ms
+Fri, 10 Feb 2023 15:07:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.327 ms
+Fri, 10 Feb 2023 15:08:08 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.730 ms
+Fri, 10 Feb 2023 15:08:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.470 ms
+Fri, 10 Feb 2023 15:08:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 23.685 ms
+Fri, 10 Feb 2023 15:08:23 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.847 ms
+Fri, 10 Feb 2023 15:08:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.466 ms
+Fri, 10 Feb 2023 15:08:38 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 21.174 ms
+Fri, 10 Feb 2023 15:08:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.988 ms
+Fri, 10 Feb 2023 15:08:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.305 ms
+Fri, 10 Feb 2023 15:08:53 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.445 ms
+Fri, 10 Feb 2023 15:08:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 16.874 ms
+Fri, 10 Feb 2023 15:09:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.269 ms
+Fri, 10 Feb 2023 15:09:08 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.628 ms
+Fri, 10 Feb 2023 15:09:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.448 ms
+Fri, 10 Feb 2023 15:09:23 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 28.020 ms
+Fri, 10 Feb 2023 15:09:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.221 ms
+Fri, 10 Feb 2023 15:09:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.201 ms
+Fri, 10 Feb 2023 15:09:38 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.419 ms
+Fri, 10 Feb 2023 15:09:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.015 ms
+Fri, 10 Feb 2023 15:09:53 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.884 ms
+Fri, 10 Feb 2023 15:09:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.771 ms
+Fri, 10 Feb 2023 15:10:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.996 ms
+Fri, 10 Feb 2023 15:10:08 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.882 ms
+Fri, 10 Feb 2023 15:10:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 21.521 ms
+Fri, 10 Feb 2023 15:10:23 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.658 ms
+Fri, 10 Feb 2023 15:10:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.045 ms
+Fri, 10 Feb 2023 15:10:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 13.841 ms
+Fri, 10 Feb 2023 15:10:38 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.212 ms
+Fri, 10 Feb 2023 15:10:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 19.033 ms
+Fri, 10 Feb 2023 15:10:53 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.659 ms
+Fri, 10 Feb 2023 15:10:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.840 ms
+Fri, 10 Feb 2023 15:11:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 28.101 ms
+Fri, 10 Feb 2023 15:11:08 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.718 ms
+Fri, 10 Feb 2023 15:11:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.934 ms
+Fri, 10 Feb 2023 15:11:24 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 13.276 ms
+Fri, 10 Feb 2023 15:11:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 6.681 ms
+Fri, 10 Feb 2023 15:11:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 16.948 ms
+Fri, 10 Feb 2023 15:11:39 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.598 ms
+Fri, 10 Feb 2023 15:11:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.191 ms
+Fri, 10 Feb 2023 15:11:54 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.770 ms
+Fri, 10 Feb 2023 15:11:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 22.036 ms
+Fri, 10 Feb 2023 15:12:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.998 ms
+Fri, 10 Feb 2023 15:12:09 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.788 ms
+Fri, 10 Feb 2023 15:12:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.026 ms
+Fri, 10 Feb 2023 15:12:24 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 17.645 ms
+Fri, 10 Feb 2023 15:12:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.208 ms
+Fri, 10 Feb 2023 15:12:36 GMT bear [1mGET[0m [33m/stats?statsTab=1[0m 200 - bytes 3.742 ms
+Fri, 10 Feb 2023 15:12:37 GMT bear [1mGET[0m [33m/api/appinfo[0m 200 - bytes 306.143 ms
+Fri, 10 Feb 2023 15:12:37 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.633 ms
+Fri, 10 Feb 2023 15:12:37 GMT bear [1mGET[0m [33m/api/user/config/captureStats[0m 200 35 bytes 0.466 ms
+Fri, 10 Feb 2023 15:12:37 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 6.844 ms
+Fri, 10 Feb 2023 15:12:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.195 ms
+Fri, 10 Feb 2023 15:12:52 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.995 ms
+Fri, 10 Feb 2023 15:12:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.536 ms
+Fri, 10 Feb 2023 15:13:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.231 ms
+Fri, 10 Feb 2023 15:13:07 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.171 ms
+Fri, 10 Feb 2023 15:13:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.714 ms
+Fri, 10 Feb 2023 15:13:22 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.113 ms
+Fri, 10 Feb 2023 15:13:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.335 ms
+Fri, 10 Feb 2023 15:13:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.271 ms
+Fri, 10 Feb 2023 15:13:37 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.716 ms
+Fri, 10 Feb 2023 15:13:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 6.998 ms
+Fri, 10 Feb 2023 15:13:53 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 16.434 ms
+Fri, 10 Feb 2023 15:13:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.209 ms
+Fri, 10 Feb 2023 15:14:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.031 ms
+Fri, 10 Feb 2023 15:14:08 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 13.737 ms
+Fri, 10 Feb 2023 15:14:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.234 ms
+Fri, 10 Feb 2023 15:14:23 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.252 ms
+Fri, 10 Feb 2023 15:14:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 19.547 ms
+Fri, 10 Feb 2023 15:14:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.236 ms
+Fri, 10 Feb 2023 15:14:38 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.830 ms
+Fri, 10 Feb 2023 15:14:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 25.757 ms
+Fri, 10 Feb 2023 15:14:53 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.435 ms
+Fri, 10 Feb 2023 15:14:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.174 ms
+Fri, 10 Feb 2023 15:15:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 29.835 ms
+Fri, 10 Feb 2023 15:15:08 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.398 ms
+Fri, 10 Feb 2023 15:15:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.286 ms
+Fri, 10 Feb 2023 15:15:23 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 13.231 ms
+Fri, 10 Feb 2023 15:15:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.453 ms
+Fri, 10 Feb 2023 15:15:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.208 ms
+Fri, 10 Feb 2023 15:15:38 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 15.510 ms
+Fri, 10 Feb 2023 15:15:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.225 ms
+Fri, 10 Feb 2023 15:15:53 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.206 ms
+Fri, 10 Feb 2023 15:15:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.244 ms
+Fri, 10 Feb 2023 15:16:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.600 ms
+Fri, 10 Feb 2023 15:16:08 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.494 ms
+Fri, 10 Feb 2023 15:16:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.359 ms
+Fri, 10 Feb 2023 15:16:23 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.467 ms
+Fri, 10 Feb 2023 15:16:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.423 ms
+Fri, 10 Feb 2023 15:16:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.831 ms
+Fri, 10 Feb 2023 15:16:38 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.132 ms
+Fri, 10 Feb 2023 15:16:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 24.159 ms
+Fri, 10 Feb 2023 15:16:53 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.220 ms
+Fri, 10 Feb 2023 15:16:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 4.209 ms
+Fri, 10 Feb 2023 15:17:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.051 ms
+Fri, 10 Feb 2023 15:17:09 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 13.015 ms
+Fri, 10 Feb 2023 15:17:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.198 ms
+Fri, 10 Feb 2023 15:17:24 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.005 ms
+Fri, 10 Feb 2023 15:17:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.386 ms
+Fri, 10 Feb 2023 15:17:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 23.289 ms
+Fri, 10 Feb 2023 15:17:39 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 13.582 ms
+Fri, 10 Feb 2023 15:17:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.197 ms
+Fri, 10 Feb 2023 15:17:54 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.459 ms
+Fri, 10 Feb 2023 15:17:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.043 ms
+Fri, 10 Feb 2023 15:18:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.167 ms
+Fri, 10 Feb 2023 15:18:09 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.006 ms
+Fri, 10 Feb 2023 15:18:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.957 ms
+Fri, 10 Feb 2023 15:18:24 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 17.493 ms
+Fri, 10 Feb 2023 15:18:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.299 ms
+Fri, 10 Feb 2023 15:18:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 26.714 ms
+Fri, 10 Feb 2023 15:18:39 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 20.767 ms
+Fri, 10 Feb 2023 15:18:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.218 ms
+Fri, 10 Feb 2023 15:18:54 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.615 ms
+Fri, 10 Feb 2023 15:18:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 26.904 ms
+Fri, 10 Feb 2023 15:19:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.195 ms
+Fri, 10 Feb 2023 15:19:09 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.672 ms
+Fri, 10 Feb 2023 15:19:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 14.793 ms
+Fri, 10 Feb 2023 15:19:24 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.233 ms
+Fri, 10 Feb 2023 15:19:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.980 ms
+Fri, 10 Feb 2023 15:19:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.303 ms
+Fri, 10 Feb 2023 15:19:39 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.524 ms
+Fri, 10 Feb 2023 15:19:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.252 ms
+Fri, 10 Feb 2023 15:19:54 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 16.996 ms
+Fri, 10 Feb 2023 15:19:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.114 ms
+Fri, 10 Feb 2023 15:20:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.198 ms
+Fri, 10 Feb 2023 15:20:09 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 22.732 ms
+Fri, 10 Feb 2023 15:20:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.811 ms
+Fri, 10 Feb 2023 15:20:24 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.216 ms
+Fri, 10 Feb 2023 15:20:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.075 ms
+Fri, 10 Feb 2023 15:20:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.364 ms
+Fri, 10 Feb 2023 15:20:40 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.277 ms
+Fri, 10 Feb 2023 15:20:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.196 ms
+Fri, 10 Feb 2023 15:20:55 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.524 ms
+Fri, 10 Feb 2023 15:20:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 17.762 ms
+Fri, 10 Feb 2023 15:21:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.234 ms
+Fri, 10 Feb 2023 15:21:10 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 14.211 ms
+Fri, 10 Feb 2023 15:21:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 40.134 ms
+Fri, 10 Feb 2023 15:21:25 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.738 ms
+Fri, 10 Feb 2023 15:21:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.250 ms
+Fri, 10 Feb 2023 15:21:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 29.165 ms
+Fri, 10 Feb 2023 15:21:40 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.633 ms
+Fri, 10 Feb 2023 15:21:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.573 ms
+Fri, 10 Feb 2023 15:21:55 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.898 ms
+Fri, 10 Feb 2023 15:21:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 12.296 ms
+Fri, 10 Feb 2023 15:22:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 4.269 ms
+Fri, 10 Feb 2023 15:22:10 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 15.892 ms
+Fri, 10 Feb 2023 15:22:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 6.397 ms
+Fri, 10 Feb 2023 15:22:25 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.150 ms
+Fri, 10 Feb 2023 15:22:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.495 ms
+Fri, 10 Feb 2023 15:22:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.219 ms
+Fri, 10 Feb 2023 15:22:40 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.319 ms
+Fri, 10 Feb 2023 15:22:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 8.841 ms
+Fri, 10 Feb 2023 15:22:55 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 19.967 ms
+Fri, 10 Feb 2023 15:22:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.203 ms
+Fri, 10 Feb 2023 15:23:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.417 ms
+Fri, 10 Feb 2023 15:23:10 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 13.749 ms
+Fri, 10 Feb 2023 15:23:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.044 ms
+Fri, 10 Feb 2023 15:23:25 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 6.875 ms
+Fri, 10 Feb 2023 15:23:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.227 ms
+Fri, 10 Feb 2023 15:23:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.691 ms
+Fri, 10 Feb 2023 15:23:40 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 21.237 ms
+Fri, 10 Feb 2023 15:23:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.452 ms
+Fri, 10 Feb 2023 15:23:56 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.489 ms
+Fri, 10 Feb 2023 15:23:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.999 ms
+Fri, 10 Feb 2023 15:24:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 29.982 ms
+Fri, 10 Feb 2023 15:24:11 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.862 ms
+Fri, 10 Feb 2023 15:24:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.080 ms
+Fri, 10 Feb 2023 15:24:26 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.351 ms
+Fri, 10 Feb 2023 15:24:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 17.436 ms
+Fri, 10 Feb 2023 15:24:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.230 ms
+Fri, 10 Feb 2023 15:24:41 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.378 ms
+Fri, 10 Feb 2023 15:24:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.620 ms
+Fri, 10 Feb 2023 15:24:56 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.983 ms
+Fri, 10 Feb 2023 15:24:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.081 ms
+Fri, 10 Feb 2023 15:25:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.899 ms
+Fri, 10 Feb 2023 15:25:11 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.704 ms
+Fri, 10 Feb 2023 15:25:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.013 ms
+Fri, 10 Feb 2023 15:25:26 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.757 ms
+Fri, 10 Feb 2023 15:25:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 24.784 ms
+Fri, 10 Feb 2023 15:25:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.009 ms
+Fri, 10 Feb 2023 15:25:41 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.320 ms
+Fri, 10 Feb 2023 15:25:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 37.856 ms
+Fri, 10 Feb 2023 15:25:56 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.623 ms
+Fri, 10 Feb 2023 15:25:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.228 ms
+Fri, 10 Feb 2023 15:26:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 8.708 ms
+Fri, 10 Feb 2023 15:26:11 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 27.835 ms
+Fri, 10 Feb 2023 15:26:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.192 ms
+Fri, 10 Feb 2023 15:26:26 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.392 ms
+Fri, 10 Feb 2023 15:26:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 15.464 ms
+Fri, 10 Feb 2023 15:26:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.196 ms
+Fri, 10 Feb 2023 15:26:41 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.046 ms
+Fri, 10 Feb 2023 15:26:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.232 ms
+Fri, 10 Feb 2023 15:26:56 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.589 ms
+Fri, 10 Feb 2023 15:26:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 14.408 ms
+Fri, 10 Feb 2023 15:27:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.034 ms
+Fri, 10 Feb 2023 15:27:11 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.638 ms
+Fri, 10 Feb 2023 15:27:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.453 ms
+Fri, 10 Feb 2023 15:27:27 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.383 ms
+Fri, 10 Feb 2023 15:27:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.205 ms
+Fri, 10 Feb 2023 15:27:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.090 ms
+Fri, 10 Feb 2023 15:27:42 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 13.829 ms
+Fri, 10 Feb 2023 15:27:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 28.725 ms
+Fri, 10 Feb 2023 15:27:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.219 ms
+Fri, 10 Feb 2023 15:27:57 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.744 ms
+Fri, 10 Feb 2023 15:28:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.997 ms
+Fri, 10 Feb 2023 15:28:12 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 22.042 ms
+Fri, 10 Feb 2023 15:28:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.214 ms
+Fri, 10 Feb 2023 15:28:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 13.002 ms
+Fri, 10 Feb 2023 15:28:27 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.854 ms
+Fri, 10 Feb 2023 15:28:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.413 ms
+Fri, 10 Feb 2023 15:28:42 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.934 ms
+Fri, 10 Feb 2023 15:28:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 28.415 ms
+Fri, 10 Feb 2023 15:28:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.026 ms
+Fri, 10 Feb 2023 15:28:57 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.244 ms
+Fri, 10 Feb 2023 15:29:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.485 ms
+Fri, 10 Feb 2023 15:29:12 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.573 ms
+Fri, 10 Feb 2023 15:29:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.039 ms
+Fri, 10 Feb 2023 15:29:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 26.520 ms
+Fri, 10 Feb 2023 15:29:27 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.348 ms
+Fri, 10 Feb 2023 15:29:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.009 ms
+Fri, 10 Feb 2023 15:29:42 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 13.352 ms
+Fri, 10 Feb 2023 15:29:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.651 ms
+Fri, 10 Feb 2023 15:29:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.024 ms
+Fri, 10 Feb 2023 15:29:57 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.140 ms
+Fri, 10 Feb 2023 15:30:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 28.820 ms
+Fri, 10 Feb 2023 15:30:12 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.420 ms
+Fri, 10 Feb 2023 15:30:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.987 ms
+Fri, 10 Feb 2023 15:30:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.242 ms
+Fri, 10 Feb 2023 15:30:27 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 21.303 ms
+Fri, 10 Feb 2023 15:30:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 14.362 ms
+Fri, 10 Feb 2023 15:30:43 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.963 ms
+Fri, 10 Feb 2023 15:30:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.986 ms
+Fri, 10 Feb 2023 15:30:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.909 ms
+Fri, 10 Feb 2023 15:30:58 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.955 ms
+Fri, 10 Feb 2023 15:31:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.130 ms
+Fri, 10 Feb 2023 15:31:13 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.490 ms
+Fri, 10 Feb 2023 15:31:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 29.314 ms
+Fri, 10 Feb 2023 15:31:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.963 ms
+Fri, 10 Feb 2023 15:31:28 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.502 ms
+Fri, 10 Feb 2023 15:31:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.081 ms
+Fri, 10 Feb 2023 15:31:43 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.516 ms
+Fri, 10 Feb 2023 15:31:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.090 ms
+Fri, 10 Feb 2023 15:31:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 33.629 ms
+Fri, 10 Feb 2023 15:31:58 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.931 ms
+Fri, 10 Feb 2023 15:32:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.973 ms
+Fri, 10 Feb 2023 15:32:13 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.681 ms
+Fri, 10 Feb 2023 15:32:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.469 ms
+Fri, 10 Feb 2023 15:32:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.337 ms
+Fri, 10 Feb 2023 15:32:28 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.362 ms
+Fri, 10 Feb 2023 15:32:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 19.796 ms
+Fri, 10 Feb 2023 15:32:43 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.912 ms
+Fri, 10 Feb 2023 15:32:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.203 ms
+Fri, 10 Feb 2023 15:32:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 21.659 ms
+Fri, 10 Feb 2023 15:32:58 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 17.212 ms
+Fri, 10 Feb 2023 15:33:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.216 ms
+Fri, 10 Feb 2023 15:33:13 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.346 ms
+Fri, 10 Feb 2023 15:33:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.707 ms
+Fri, 10 Feb 2023 15:33:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.211 ms
+Fri, 10 Feb 2023 15:33:28 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.186 ms
+Fri, 10 Feb 2023 15:33:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.054 ms
+Fri, 10 Feb 2023 15:33:43 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.212 ms
+Fri, 10 Feb 2023 15:33:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.209 ms
+Fri, 10 Feb 2023 15:33:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 6.407 ms
+Fri, 10 Feb 2023 15:33:59 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 6.592 ms
+Fri, 10 Feb 2023 15:34:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.253 ms
+Fri, 10 Feb 2023 15:34:14 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.054 ms
+Fri, 10 Feb 2023 15:34:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 13.449 ms
+Fri, 10 Feb 2023 15:34:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.198 ms
+Fri, 10 Feb 2023 15:34:29 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.659 ms
+Fri, 10 Feb 2023 15:34:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 6.512 ms
+Fri, 10 Feb 2023 15:34:44 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.498 ms
+Fri, 10 Feb 2023 15:34:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.203 ms
+Fri, 10 Feb 2023 15:34:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 26.126 ms
+Fri, 10 Feb 2023 15:34:59 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.449 ms
+Fri, 10 Feb 2023 15:35:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.190 ms
+Fri, 10 Feb 2023 15:35:14 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.528 ms
+Fri, 10 Feb 2023 15:35:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 8.641 ms
+Fri, 10 Feb 2023 15:35:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.235 ms
+Fri, 10 Feb 2023 15:35:29 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.422 ms
+Fri, 10 Feb 2023 15:35:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 6.071 ms
+Fri, 10 Feb 2023 15:35:44 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.814 ms
+Fri, 10 Feb 2023 15:35:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.223 ms
+Fri, 10 Feb 2023 15:35:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 8.400 ms
+Fri, 10 Feb 2023 15:35:59 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.467 ms
+Fri, 10 Feb 2023 15:36:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.192 ms
+Fri, 10 Feb 2023 15:36:14 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.104 ms
+Fri, 10 Feb 2023 15:36:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.950 ms
+Fri, 10 Feb 2023 15:36:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.298 ms
+Fri, 10 Feb 2023 15:36:29 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.917 ms
+Fri, 10 Feb 2023 15:36:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 13.437 ms
+Fri, 10 Feb 2023 15:36:44 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.302 ms
+Fri, 10 Feb 2023 15:36:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.044 ms
+Fri, 10 Feb 2023 15:36:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 28.216 ms
+Fri, 10 Feb 2023 15:36:59 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 21.596 ms
+Fri, 10 Feb 2023 15:37:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.209 ms
+Fri, 10 Feb 2023 15:37:14 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.535 ms
+Fri, 10 Feb 2023 15:37:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.089 ms
+Fri, 10 Feb 2023 15:37:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 27.837 ms
+Fri, 10 Feb 2023 15:37:30 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.677 ms
+Fri, 10 Feb 2023 15:37:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.013 ms
+Fri, 10 Feb 2023 15:37:45 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 23.127 ms
+Fri, 10 Feb 2023 15:37:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 8.827 ms
+Fri, 10 Feb 2023 15:37:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.191 ms
+Fri, 10 Feb 2023 15:38:00 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.844 ms
+Fri, 10 Feb 2023 15:38:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 35.454 ms
+Fri, 10 Feb 2023 15:38:15 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.670 ms
+Fri, 10 Feb 2023 15:38:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.505 ms
+Fri, 10 Feb 2023 15:38:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 21.131 ms
+Fri, 10 Feb 2023 15:38:30 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.884 ms
+Fri, 10 Feb 2023 15:38:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.193 ms
+Fri, 10 Feb 2023 15:38:45 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.680 ms
+Fri, 10 Feb 2023 15:38:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 28.457 ms
+Fri, 10 Feb 2023 15:38:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.240 ms
+Fri, 10 Feb 2023 15:39:00 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.395 ms
+Fri, 10 Feb 2023 15:39:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 7.296 ms
+Fri, 10 Feb 2023 15:39:15 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.840 ms
+Fri, 10 Feb 2023 15:39:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.203 ms
+Fri, 10 Feb 2023 15:39:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 10.248 ms
+Fri, 10 Feb 2023 15:39:30 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.406 ms
+Fri, 10 Feb 2023 15:39:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.302 ms
+Fri, 10 Feb 2023 15:39:45 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.636 ms
+Fri, 10 Feb 2023 15:39:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 8.670 ms
+Fri, 10 Feb 2023 15:39:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.326 ms
+Fri, 10 Feb 2023 15:40:00 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.567 ms
+Fri, 10 Feb 2023 15:40:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 9.786 ms
+Fri, 10 Feb 2023 15:40:15 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.991 ms
+Fri, 10 Feb 2023 15:40:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.253 ms
+Fri, 10 Feb 2023 15:40:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 8.683 ms
+Fri, 10 Feb 2023 15:40:30 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 29.629 ms
+Fri, 10 Feb 2023 15:40:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.288 ms
+Fri, 10 Feb 2023 15:40:45 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 40.946 ms
+Fri, 10 Feb 2023 15:40:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 20.052 ms
+Fri, 10 Feb 2023 15:40:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.199 ms
+Fri, 10 Feb 2023 15:41:00 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 32.124 ms
+Fri, 10 Feb 2023 15:41:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 74.840 ms
+Fri, 10 Feb 2023 15:41:16 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.807 ms
+Fri, 10 Feb 2023 15:41:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.216 ms
+Fri, 10 Feb 2023 15:41:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 12.837 ms
+Fri, 10 Feb 2023 15:41:31 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 7.678 ms
+Fri, 10 Feb 2023 15:41:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.235 ms
+Fri, 10 Feb 2023 15:41:46 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.069 ms
+Fri, 10 Feb 2023 15:41:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.680 ms
+Fri, 10 Feb 2023 15:41:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.195 ms
+Fri, 10 Feb 2023 15:42:01 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 12.197 ms
+Fri, 10 Feb 2023 15:42:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 6.269 ms
+Fri, 10 Feb 2023 15:42:16 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.850 ms
+Fri, 10 Feb 2023 15:42:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 0.586 ms
+Fri, 10 Feb 2023 15:42:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 11.032 ms
+Fri, 10 Feb 2023 15:42:31 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 10.204 ms
+Fri, 10 Feb 2023 15:42:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 15.734 ms
+Fri, 10 Feb 2023 15:42:46 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.847 ms
+Fri, 10 Feb 2023 15:42:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.032 ms
+Fri, 10 Feb 2023 15:42:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 23.355 ms
+Fri, 10 Feb 2023 15:43:01 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 9.198 ms
+Fri, 10 Feb 2023 15:43:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.256 ms
+Fri, 10 Feb 2023 15:43:16 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.181 ms
+Fri, 10 Feb 2023 15:43:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 16.573 ms
+Fri, 10 Feb 2023 15:43:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 1.219 ms
+Fri, 10 Feb 2023 15:43:31 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 11.193 ms
+Fri, 10 Feb 2023 15:43:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 519 bytes 33.365 ms
+                 WARNING - No cronQueries=true found in /opt/arkime/etc/config.ini, one and only one node MUST have cronQueries=true set for cron/hunts to work
+Express server listening on port 8005 in development mode
+WARNING - No cronQueries=true found in /opt/arkime/etc/config.ini, one and only one node MUST have cronQueries=true set for cron/hunts to work
+Express server listening on port 8005 in development mode
+Sun, 12 Feb 2023 23:39:59 GMT - [1mGET[0m [33m/[0m 401 - bytes 1.164 ms
+User admin doesn't exist
+Sun, 12 Feb 2023 23:40:02 GMT - [1mGET[0m [33m/[0m 401 - bytes 9.329 ms
+Sun, 12 Feb 2023 23:40:04 GMT bear [1mGET[0m [33m/[0m 302 60 bytes 10.528 ms
+Sun, 12 Feb 2023 23:40:04 GMT bear [1mGET[0m [33m/sessions[0m 200 - bytes 16.359 ms
+Sun, 12 Feb 2023 23:40:04 GMT - [1mGET[0m [33m/font-awesome/css/font-awesome.min.css[0m 200 - bytes 10.110 ms
+Sun, 12 Feb 2023 23:40:04 GMT bear [1mGET[0m [33m/static/js/runtime.51dcfe86fb4362b560a3.js[0m 200 - bytes 8.938 ms
+Sun, 12 Feb 2023 23:40:04 GMT bear [1mGET[0m [33m/static/css/app.4a490ff5e17e1500fd7b.css[0m 200 - bytes 5.428 ms
+Sun, 12 Feb 2023 23:40:05 GMT bear [1mGET[0m [33m/static/js/app.4a490ff5e17e1500fd7b.js[0m 200 - bytes 5.906 ms
+Sun, 12 Feb 2023 23:40:05 GMT - [1mGET[0m [33m/assets/Arkime_Logo_Mark_White.png[0m 200 2525 bytes 10.873 ms
+Sun, 12 Feb 2023 23:40:05 GMT - [1mGET[0m [33m/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0[0m 200 77160 bytes 2.781 ms
+Sun, 12 Feb 2023 23:40:05 GMT bear [1mGET[0m [33m/api/appinfo[0m 200 - bytes 96.674 ms
+Sun, 12 Feb 2023 23:40:05 GMT - [1mGET[0m [33m/favicon.ico[0m 200 - bytes 2.139 ms
+Sun, 12 Feb 2023 23:40:05 GMT bear [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 0.926 ms
+Sun, 12 Feb 2023 23:40:05 GMT bear [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 0.580 ms
+Sun, 12 Feb 2023 23:40:05 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 63.054 ms
+Sun, 12 Feb 2023 23:40:05 GMT bear [1mGET[0m [33m/static/js/803.fedc3161fc46ab27ab46.js[0m 200 - bytes 4.834 ms
+Sun, 12 Feb 2023 23:40:05 GMT bear [1mGET[0m [33m/static/js/317.1a505d234de364561e71.js[0m 200 - bytes 7.481 ms
+Sun, 12 Feb 2023 23:40:05 GMT bear [1mGET[0m [33m/static/js/652.73749b91da140bf0165e.js[0m 200 - bytes 3.184 ms
+Sun, 12 Feb 2023 23:40:15 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.318 ms
+Sun, 12 Feb 2023 23:40:25 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 13.311 ms
+Sun, 12 Feb 2023 23:40:35 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.863 ms
+Sun, 12 Feb 2023 23:40:45 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 35.403 ms
+Sun, 12 Feb 2023 23:40:55 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.288 ms
+Sun, 12 Feb 2023 23:41:05 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 34.862 ms
+Sun, 12 Feb 2023 23:41:15 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.211 ms
+Sun, 12 Feb 2023 23:41:25 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 24.022 ms
+Sun, 12 Feb 2023 23:41:35 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.425 ms
+Sun, 12 Feb 2023 23:41:45 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 18.214 ms
+Sun, 12 Feb 2023 23:41:55 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.214 ms
+Sun, 12 Feb 2023 23:42:05 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.793 ms
+Sun, 12 Feb 2023 23:42:15 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 37.192 ms
+Sun, 12 Feb 2023 23:42:25 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.105 ms
+Sun, 12 Feb 2023 23:42:35 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 20.358 ms
+Sun, 12 Feb 2023 23:42:45 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.219 ms
+Sun, 12 Feb 2023 23:42:55 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 31.047 ms
+Sun, 12 Feb 2023 23:43:05 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.208 ms
+Sun, 12 Feb 2023 23:43:15 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.983 ms
+Sun, 12 Feb 2023 23:43:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.125 ms
+Sun, 12 Feb 2023 23:43:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.291 ms
+Sun, 12 Feb 2023 23:43:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.778 ms
+Sun, 12 Feb 2023 23:43:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.182 ms
+Sun, 12 Feb 2023 23:44:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 24.635 ms
+Sun, 12 Feb 2023 23:44:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.279 ms
+Sun, 12 Feb 2023 23:44:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 21.549 ms
+Sun, 12 Feb 2023 23:44:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.404 ms
+Sun, 12 Feb 2023 23:44:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.205 ms
+Sun, 12 Feb 2023 23:44:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.161 ms
+Sun, 12 Feb 2023 23:45:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.159 ms
+Sun, 12 Feb 2023 23:45:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 14.507 ms
+Sun, 12 Feb 2023 23:45:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.873 ms
+Sun, 12 Feb 2023 23:45:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.291 ms
+Sun, 12 Feb 2023 23:45:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 21.493 ms
+Sun, 12 Feb 2023 23:45:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.408 ms
+Sun, 12 Feb 2023 23:46:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.611 ms
+Sun, 12 Feb 2023 23:46:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.920 ms
+Sun, 12 Feb 2023 23:46:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 16.644 ms
+Sun, 12 Feb 2023 23:46:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.968 ms
+Sun, 12 Feb 2023 23:46:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.794 ms
+Sun, 12 Feb 2023 23:46:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.167 ms
+Sun, 12 Feb 2023 23:47:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.332 ms
+Sun, 12 Feb 2023 23:47:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.808 ms
+Sun, 12 Feb 2023 23:47:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 24.855 ms
+Sun, 12 Feb 2023 23:47:36 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 19.101 ms
+Sun, 12 Feb 2023 23:47:46 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 40.564 ms
+Sun, 12 Feb 2023 23:47:56 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.191 ms
+Sun, 12 Feb 2023 23:48:06 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 32.476 ms
+Sun, 12 Feb 2023 23:48:16 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.988 ms
+Sun, 12 Feb 2023 23:48:26 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.172 ms
+Sun, 12 Feb 2023 23:48:37 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 29.187 ms
+Sun, 12 Feb 2023 23:48:47 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.488 ms
+Sun, 12 Feb 2023 23:48:57 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 14.318 ms
+Sun, 12 Feb 2023 23:49:07 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.355 ms
+Sun, 12 Feb 2023 23:49:17 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.604 ms
+Sun, 12 Feb 2023 23:49:27 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.902 ms
+Sun, 12 Feb 2023 23:49:30 GMT bear [1mGET[0m [33m/sessions[0m 200 - bytes 8.883 ms
+Sun, 12 Feb 2023 23:49:30 GMT bear [1mGET[0m [33m/api/appinfo[0m 200 - bytes 44.949 ms
+Sun, 12 Feb 2023 23:49:30 GMT bear [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 0.551 ms
+Sun, 12 Feb 2023 23:49:30 GMT bear [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 0.482 ms
+Sun, 12 Feb 2023 23:49:30 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 34.101 ms
+Sun, 12 Feb 2023 23:49:38 GMT bear [1mGET[0m [33m/sessions[0m 200 - bytes 6.894 ms
+Sun, 12 Feb 2023 23:49:39 GMT bear [1mGET[0m [33m/api/appinfo[0m 200 - bytes 48.314 ms
+Sun, 12 Feb 2023 23:49:39 GMT bear [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 0.545 ms
+Sun, 12 Feb 2023 23:49:39 GMT bear [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 0.404 ms
+Sun, 12 Feb 2023 23:49:39 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 4.963 ms
+Sun, 12 Feb 2023 23:49:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.192 ms
+Sun, 12 Feb 2023 23:49:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.771 ms
+Sun, 12 Feb 2023 23:50:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.993 ms
+Sun, 12 Feb 2023 23:50:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.749 ms
+Sun, 12 Feb 2023 23:50:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.986 ms
+Sun, 12 Feb 2023 23:50:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.913 ms
+Sun, 12 Feb 2023 23:50:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.195 ms
+Sun, 12 Feb 2023 23:50:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 26.102 ms
+Sun, 12 Feb 2023 23:51:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.191 ms
+Sun, 12 Feb 2023 23:51:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 21.749 ms
+Sun, 12 Feb 2023 23:51:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.204 ms
+Sun, 12 Feb 2023 23:51:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.260 ms
+Sun, 12 Feb 2023 23:51:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.187 ms
+Sun, 12 Feb 2023 23:51:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 26.345 ms
+Sun, 12 Feb 2023 23:52:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.706 ms
+Sun, 12 Feb 2023 23:52:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 15.084 ms
+Sun, 12 Feb 2023 23:52:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.987 ms
+Sun, 12 Feb 2023 23:52:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 21.565 ms
+Sun, 12 Feb 2023 23:52:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.505 ms
+Sun, 12 Feb 2023 23:52:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.071 ms
+Sun, 12 Feb 2023 23:53:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 34.627 ms
+Sun, 12 Feb 2023 23:53:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.427 ms
+Sun, 12 Feb 2023 23:53:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.090 ms
+Sun, 12 Feb 2023 23:53:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 3.062 ms
+Sun, 12 Feb 2023 23:53:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.008 ms
+Sun, 12 Feb 2023 23:53:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.210 ms
+Sun, 12 Feb 2023 23:54:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.394 ms
+Sun, 12 Feb 2023 23:54:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.217 ms
+Sun, 12 Feb 2023 23:54:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 20.518 ms
+Sun, 12 Feb 2023 23:54:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.235 ms
+Sun, 12 Feb 2023 23:54:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.081 ms
+Sun, 12 Feb 2023 23:54:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.315 ms
+Sun, 12 Feb 2023 23:55:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.732 ms
+Sun, 12 Feb 2023 23:55:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.344 ms
+Sun, 12 Feb 2023 23:55:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.629 ms
+Sun, 12 Feb 2023 23:55:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.430 ms
+Sun, 12 Feb 2023 23:55:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.290 ms
+Sun, 12 Feb 2023 23:55:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.748 ms
+Sun, 12 Feb 2023 23:56:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.756 ms
+Sun, 12 Feb 2023 23:56:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 16.642 ms
+Sun, 12 Feb 2023 23:56:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 17.602 ms
+Sun, 12 Feb 2023 23:56:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.359 ms
+Sun, 12 Feb 2023 23:56:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 22.319 ms
+Sun, 12 Feb 2023 23:56:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.252 ms
+Sun, 12 Feb 2023 23:57:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.392 ms
+Sun, 12 Feb 2023 23:57:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 17.116 ms
+Sun, 12 Feb 2023 23:57:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.018 ms
+Sun, 12 Feb 2023 23:57:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.245 ms
+Sun, 12 Feb 2023 23:57:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.484 ms
+Sun, 12 Feb 2023 23:57:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.801 ms
+Sun, 12 Feb 2023 23:58:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.685 ms
+Sun, 12 Feb 2023 23:58:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.517 ms
+Sun, 12 Feb 2023 23:58:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.555 ms
+Sun, 12 Feb 2023 23:58:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.790 ms
+Sun, 12 Feb 2023 23:58:48 GMT bear [1mGET[0m [33m/sessions[0m 200 - bytes 5.249 ms
+Sun, 12 Feb 2023 23:58:48 GMT bear [1mGET[0m [33m/api/appinfo[0m 200 - bytes 41.773 ms
+Sun, 12 Feb 2023 23:58:48 GMT bear [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 0.490 ms
+Sun, 12 Feb 2023 23:58:48 GMT bear [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 0.342 ms
+Sun, 12 Feb 2023 23:58:48 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 21.910 ms
+Sun, 12 Feb 2023 23:58:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 20.687 ms
+Sun, 12 Feb 2023 23:59:02 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&desc=false&hide=none[0m 200 48 bytes 48.402 ms
+Sun, 12 Feb 2023 23:59:02 GMT bear [1mGET[0m [33m/static/js/455.11f46b43d37682739dae.js[0m 200 - bytes 1.847 ms
+Sun, 12 Feb 2023 23:59:02 GMT bear [1mGET[0m [33m/static/js/730.39f102188d0bb597ab1f.js[0m 200 - bytes 3.231 ms
+Sun, 12 Feb 2023 23:59:02 GMT bear [1mGET[0m [33m/static/js/26.11fb9bf6ae4554ccfe5e.js[0m 200 - bytes 1.330 ms
+Sun, 12 Feb 2023 23:59:05 GMT bear [1mGET[0m [33m/api/user/config/captureStats[0m 200 35 bytes 0.758 ms
+Sun, 12 Feb 2023 23:59:05 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 8.325 ms
+Sun, 12 Feb 2023 23:59:05 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&sortField=nodeName&desc=true&hide=none[0m 200 48 bytes 46.126 ms
+Sun, 12 Feb 2023 23:59:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.257 ms
+Sun, 12 Feb 2023 23:59:10 GMT bear [1mGET[0m [33m/api/user/config/esTasks[0m 200 35 bytes 9.376 ms
+Sun, 12 Feb 2023 23:59:10 GMT bear [1mGET[0m [33m/api/estasks?sortField=action&desc=false&cancellable=false&size=500[0m 200 424 bytes 20.476 ms
+Sun, 12 Feb 2023 23:59:11 GMT bear [1mGET[0m [33m/api/user/config/esIndices[0m 200 35 bytes 0.466 ms
+Sun, 12 Feb 2023 23:59:11 GMT bear [1mGET[0m [33m/api/esindices?sortField=index&desc=false[0m 200 - bytes 24.685 ms
+Sun, 12 Feb 2023 23:59:12 GMT bear [1mGET[0m [33m/api/user/config/esNodes[0m 200 35 bytes 0.462 ms
+Sun, 12 Feb 2023 23:59:12 GMT bear [1mGET[0m [33m/esstats.json?sortField=nodeName&desc=false[0m 200 - bytes 46.363 ms
+Sun, 12 Feb 2023 23:59:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.346 ms
+Sun, 12 Feb 2023 23:59:28 GMT bear [1mGET[0m [33m/esstats.json?sortField=nodeName&desc=false[0m 200 - bytes 40.396 ms
+Sun, 12 Feb 2023 23:59:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.215 ms
+Sun, 12 Feb 2023 23:59:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 13.378 ms
+Sun, 12 Feb 2023 23:59:43 GMT bear [1mGET[0m [33m/esstats.json?sortField=nodeName&desc=false[0m 200 - bytes 38.467 ms
+Sun, 12 Feb 2023 23:59:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.201 ms
+Sun, 12 Feb 2023 23:59:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.777 ms
+Sun, 12 Feb 2023 23:59:58 GMT bear [1mGET[0m [33m/esstats.json?sortField=nodeName&desc=false[0m 200 - bytes 34.198 ms
+Mon, 13 Feb 2023 00:00:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 30.988 ms
+Mon, 13 Feb 2023 00:00:13 GMT bear [1mGET[0m [33m/esstats.json?sortField=nodeName&desc=false[0m 200 - bytes 21.601 ms
+Mon, 13 Feb 2023 00:00:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.260 ms
+Mon, 13 Feb 2023 00:00:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.708 ms
+Mon, 13 Feb 2023 00:00:28 GMT bear [1mGET[0m [33m/esstats.json?sortField=nodeName&desc=false[0m 200 - bytes 18.402 ms
+Mon, 13 Feb 2023 00:00:36 GMT bear [1mGET[0m [33m/api/esadmin[0m 200 - bytes 23.910 ms
+Mon, 13 Feb 2023 00:00:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.196 ms
+Mon, 13 Feb 2023 00:00:46 GMT bear [1mPOST[0m [33m/api/esadmin/clearcache[0m 200 83 bytes 14.836 ms
+Mon, 13 Feb 2023 00:00:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 34.409 ms
+Mon, 13 Feb 2023 00:00:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.204 ms
+Mon, 13 Feb 2023 00:00:59 GMT bear [1mPUT[0m [33m/api/user/bear/acknowledge[0m 200 57 bytes 24.485 ms
+Mon, 13 Feb 2023 00:01:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.447 ms
+Mon, 13 Feb 2023 00:01:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.984 ms
+Mon, 13 Feb 2023 00:01:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.856 ms
+Mon, 13 Feb 2023 00:01:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 23.359 ms
+Mon, 13 Feb 2023 00:01:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.448 ms
+Mon, 13 Feb 2023 00:01:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.769 ms
+Mon, 13 Feb 2023 00:02:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.197 ms
+Mon, 13 Feb 2023 00:02:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 19.578 ms
+Mon, 13 Feb 2023 00:02:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.130 ms
+Mon, 13 Feb 2023 00:02:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 29.967 ms
+Mon, 13 Feb 2023 00:02:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.190 ms
+Mon, 13 Feb 2023 00:02:55 GMT bear [1mPOST[0m [33m/api/esadmin/reroute[0m 200 44 bytes 47.776 ms
+Mon, 13 Feb 2023 00:02:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.319 ms
+Mon, 13 Feb 2023 00:03:02 GMT bear [1mGET[0m [33m/api/user/config/esRecovery[0m 200 35 bytes 18.097 ms
+Mon, 13 Feb 2023 00:03:02 GMT bear [1mGET[0m [33m/api/esrecovery?sortField=index&desc=false&show=notdone[0m 200 48 bytes 7.891 ms
+Mon, 13 Feb 2023 00:03:06 GMT bear [1mGET[0m [33m/api/esshards?sortField=index&desc=false&show=notstarted[0m 200 467 bytes 28.703 ms
+Mon, 13 Feb 2023 00:03:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.282 ms
+Mon, 13 Feb 2023 00:03:11 GMT bear [1mGET[0m [33m/api/user/config/esTasks[0m 200 35 bytes 6.652 ms
+Mon, 13 Feb 2023 00:03:11 GMT bear [1mGET[0m [33m/api/estasks?sortField=action&desc=false&cancellable=false&size=500[0m 200 423 bytes 4.470 ms
+Mon, 13 Feb 2023 00:03:15 GMT bear [1mGET[0m [33m/api/user/config/esIndices[0m 200 35 bytes 0.496 ms
+Mon, 13 Feb 2023 00:03:15 GMT bear [1mGET[0m [33m/api/esindices?sortField=index&desc=false[0m 200 - bytes 13.546 ms
+Mon, 13 Feb 2023 00:03:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 31.214 ms
+Mon, 13 Feb 2023 00:03:28 GMT bear [1mGET[0m [33m/api/stats?length=200&start=0&desc=false&hide=none[0m 200 48 bytes 13.862 ms
+Mon, 13 Feb 2023 00:03:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.067 ms
+Mon, 13 Feb 2023 00:03:30 GMT bear [1mGET[0m [33m/api/user/config/sessions[0m 200 48 bytes 0.619 ms
+Mon, 13 Feb 2023 00:03:30 GMT bear [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 0.367 ms
+Mon, 13 Feb 2023 00:03:30 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 24.407 ms
+Mon, 13 Feb 2023 00:03:35 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 384 bytes 14.531 ms
+Mon, 13 Feb 2023 00:03:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.859 ms
+Mon, 13 Feb 2023 00:03:39 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 3.924 ms
+Mon, 13 Feb 2023 00:03:43 GMT bear [1mPOST[0m [33m/api/sessions[0m 200 382 bytes 14.426 ms
+Mon, 13 Feb 2023 00:03:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.321 ms
+Mon, 13 Feb 2023 00:03:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 18.097 ms
+Mon, 13 Feb 2023 00:04:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.224 ms
+Mon, 13 Feb 2023 00:04:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 27.499 ms
+Mon, 13 Feb 2023 00:04:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.006 ms
+Mon, 13 Feb 2023 00:04:33 GMT bear [1mGET[0m [33m/api/user/config/spiview[0m 200 38 bytes 9.369 ms
+Mon, 13 Feb 2023 00:04:33 GMT bear [1mGET[0m [33m/api/fieldactions[0m 200 2 bytes 8.763 ms
+Mon, 13 Feb 2023 00:04:33 GMT bear [1mPOST[0m [33m/api/spiview?facets=0&spi=destination.ip:100&date=720&startTime=1673654670&stopTime=1676246670&bounding=last&interval=auto[0m 200 115 bytes 30.727 ms
+Mon, 13 Feb 2023 00:04:33 GMT bear [1mPOST[0m [33m/api/spiview?facets=0&spi=source.ip:100&date=720&startTime=1673654670&stopTime=1676246670&bounding=last&interval=auto[0m 200 110 bytes 4.538 ms
+Mon, 13 Feb 2023 00:04:34 GMT bear [1mGET[0m [33m/api/user/state/fieldHistorySpigraph[0m 200 2 bytes 1.314 ms
+ERROR - POST /api/spigraph ResponseError: parse_exception
+    at onBody (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:311:23)
+    at IncomingMessage.onEnd (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:240:11)
+    at IncomingMessage.emit (node:events:539:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  meta: {
+    body: {
+      error: {
+        root_cause: [
+          {
+            type: 'parse_exception',
+            reason: 'request body or source parameter is required'
+          }
+        ],
+        type: 'parse_exception',
+        reason: 'request body or source parameter is required'
+      },
+      status: 400
+    },
+    statusCode: 400,
+    headers: {
+      'x-opaque-id': 'bear::eeb3c7e6-e901-4e26-919e-bc54911704b6',
+      'content-type': 'application/json; charset=UTF-8',
+      'content-length': '203'
+    },
+    meta: {
+      context: null,
+      request: {
+        params: {
+          method: 'POST',
+          path: '/_msearch',
+          bulkBody: [],
+          querystring: 'rest_total_hits_as_int=true',
+          body: '',
+          headers: {
+            'user-agent': 'elasticsearch-js/7.10.0 (linux 5.4.0-139-generic-x64; Node.js v16.16.0)',
+            'x-opaque-id': 'bear::eeb3c7e6-e901-4e26-919e-bc54911704b6'
+          },
+          timeout: 330000
+        },
+        options: { opaqueId: 'bear::eeb3c7e6-e901-4e26-919e-bc54911704b6' },
+        id: 465
+      },
+      name: 'elasticsearch-js',
+      connection: {
+        url: 'https://192.168.249.148:9200/',
+        id: 'https://192.168.249.148:9200/',
+        headers: {},
+        deadCount: 0,
+        resurrectTimeout: 0,
+        _openRequests: 1,
+        status: 'alive',
+        roles: { master: true, data: true, ingest: true, ml: false }
+      },
+      attempts: 0,
+      aborted: false
+    }
+  }
+}
+Mon, 13 Feb 2023 00:04:34 GMT bear [1mPOST[0m [33m/api/spigraph[0m 200 385 bytes 12.249 ms
+Mon, 13 Feb 2023 00:04:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.755 ms
+Mon, 13 Feb 2023 00:04:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.873 ms
+Mon, 13 Feb 2023 00:04:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 17.258 ms
+Mon, 13 Feb 2023 00:05:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.225 ms
+Mon, 13 Feb 2023 00:05:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.207 ms
+Mon, 13 Feb 2023 00:05:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.287 ms
+Mon, 13 Feb 2023 00:05:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.258 ms
+Mon, 13 Feb 2023 00:05:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.063 ms
+Mon, 13 Feb 2023 00:05:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.698 ms
+Mon, 13 Feb 2023 00:06:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 18.785 ms
+Mon, 13 Feb 2023 00:06:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.192 ms
+Mon, 13 Feb 2023 00:06:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.040 ms
+Mon, 13 Feb 2023 00:06:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 13.364 ms
+Mon, 13 Feb 2023 00:06:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.288 ms
+Mon, 13 Feb 2023 00:06:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.573 ms
+Mon, 13 Feb 2023 00:07:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.627 ms
+Mon, 13 Feb 2023 00:07:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.828 ms
+Mon, 13 Feb 2023 00:07:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.001 ms
+Mon, 13 Feb 2023 00:07:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.100 ms
+Mon, 13 Feb 2023 00:07:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 24.132 ms
+Mon, 13 Feb 2023 00:07:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 24.232 ms
+Mon, 13 Feb 2023 00:08:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.205 ms
+Mon, 13 Feb 2023 00:08:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 14.816 ms
+Mon, 13 Feb 2023 00:08:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 18.771 ms
+Mon, 13 Feb 2023 00:08:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.453 ms
+Mon, 13 Feb 2023 00:08:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 21.082 ms
+Mon, 13 Feb 2023 00:08:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.006 ms
+Mon, 13 Feb 2023 00:09:10 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.222 ms
+Mon, 13 Feb 2023 00:09:20 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.641 ms
+Mon, 13 Feb 2023 00:09:30 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 16.404 ms
+Mon, 13 Feb 2023 00:09:40 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 20.303 ms
+Mon, 13 Feb 2023 00:09:51 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.507 ms
+Mon, 13 Feb 2023 00:10:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 35.657 ms
+Mon, 13 Feb 2023 00:10:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.168 ms
+Mon, 13 Feb 2023 00:10:22 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 13.189 ms
+Mon, 13 Feb 2023 00:10:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 18.707 ms
+Mon, 13 Feb 2023 00:10:42 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 28.264 ms
+Mon, 13 Feb 2023 00:10:52 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.541 ms
+Mon, 13 Feb 2023 00:11:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 6.391 ms
+Mon, 13 Feb 2023 00:11:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 22.696 ms
+Mon, 13 Feb 2023 00:11:22 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.041 ms
+Mon, 13 Feb 2023 00:11:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 31.051 ms
+Mon, 13 Feb 2023 00:11:42 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.301 ms
+Mon, 13 Feb 2023 00:11:52 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 27.998 ms
+Mon, 13 Feb 2023 00:12:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.063 ms
+Mon, 13 Feb 2023 00:12:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.032 ms
+Mon, 13 Feb 2023 00:12:22 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 22.009 ms
+Mon, 13 Feb 2023 00:12:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.233 ms
+Mon, 13 Feb 2023 00:12:42 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.456 ms
+Mon, 13 Feb 2023 00:12:52 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 28.219 ms
+Mon, 13 Feb 2023 00:13:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.192 ms
+Mon, 13 Feb 2023 00:13:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 15.722 ms
+Mon, 13 Feb 2023 00:13:22 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.630 ms
+Mon, 13 Feb 2023 00:13:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 16.328 ms
+Mon, 13 Feb 2023 00:13:42 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 28.943 ms
+Mon, 13 Feb 2023 00:13:52 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.202 ms
+Mon, 13 Feb 2023 00:14:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 28.650 ms
+Mon, 13 Feb 2023 00:14:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.193 ms
+Mon, 13 Feb 2023 00:14:22 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.929 ms
+Mon, 13 Feb 2023 00:14:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.855 ms
+Mon, 13 Feb 2023 00:14:42 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 25.351 ms
+Mon, 13 Feb 2023 00:14:52 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.313 ms
+Mon, 13 Feb 2023 00:15:02 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.800 ms
+Mon, 13 Feb 2023 00:15:12 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.347 ms
+Mon, 13 Feb 2023 00:15:22 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.233 ms
+Mon, 13 Feb 2023 00:15:32 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.968 ms
+Mon, 13 Feb 2023 00:15:42 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.899 ms
+Mon, 13 Feb 2023 00:15:52 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 15.275 ms
+User bear doesn't exist
+Mon, 13 Feb 2023 00:15:56 GMT - [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 401 - bytes 3.988 ms
+User bear doesn't exist
+Mon, 13 Feb 2023 00:15:59 GMT - [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 401 - bytes 2.477 ms
+Mon, 13 Feb 2023 00:16:04 GMT - [1mGET[0m [33m/api/eshealth[0m - - bytes - ms
+Mon, 13 Feb 2023 00:16:08 GMT - [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 401 - bytes 0.162 ms
+User admin doesn't exist
+Mon, 13 Feb 2023 00:16:10 GMT - [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 401 - bytes 3.517 ms
+User bear doesn't exist
+Mon, 13 Feb 2023 00:16:13 GMT - [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 401 - bytes 4.481 ms
+User bear doesn't exist
+Mon, 13 Feb 2023 00:16:16 GMT - [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 401 - bytes 2.819 ms
+Mon, 13 Feb 2023 00:21:00 GMT - [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 401 - bytes 3.759 ms
+Mon, 13 Feb 2023 00:21:23 GMT test [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 200 - bytes 8.857 ms
+Mon, 13 Feb 2023 00:21:24 GMT test [1mGET[0m [33m/api/appinfo[0m 200 - bytes 54.893 ms
+Mon, 13 Feb 2023 00:21:24 GMT test [1mGET[0m [33m/api/user/state/fieldHistorySpigraph[0m 200 2 bytes 0.750 ms
+ERROR - POST /api/spigraph ResponseError: parse_exception
+    at onBody (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:311:23)
+    at IncomingMessage.onEnd (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:240:11)
+    at IncomingMessage.emit (node:events:539:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  meta: {
+    body: {
+      error: {
+        root_cause: [
+          {
+            type: 'parse_exception',
+            reason: 'request body or source parameter is required'
+          }
+        ],
+        type: 'parse_exception',
+        reason: 'request body or source parameter is required'
+      },
+      status: 400
+    },
+    statusCode: 400,
+    headers: {
+      'x-opaque-id': 'test::a9b8e654-c525-4893-a53c-08ce5d251bb9',
+      'content-type': 'application/json; charset=UTF-8',
+      'content-length': '203'
+    },
+    meta: {
+      context: null,
+      request: {
+        params: {
+          method: 'POST',
+          path: '/_msearch',
+          bulkBody: [],
+          querystring: 'rest_total_hits_as_int=true',
+          body: '',
+          headers: {
+            'user-agent': 'elasticsearch-js/7.10.0 (linux 5.4.0-139-generic-x64; Node.js v16.16.0)',
+            'x-opaque-id': 'test::a9b8e654-c525-4893-a53c-08ce5d251bb9'
+          },
+          timeout: 330000
+        },
+        options: { opaqueId: 'test::a9b8e654-c525-4893-a53c-08ce5d251bb9' },
+        id: 670
+      },
+      name: 'elasticsearch-js',
+      connection: {
+        url: 'https://192.168.249.148:9200/',
+        id: 'https://192.168.249.148:9200/',
+        headers: {},
+        deadCount: 0,
+        resurrectTimeout: 0,
+        _openRequests: 1,
+        status: 'alive',
+        roles: { master: true, data: true, ingest: true, ml: false }
+      },
+      attempts: 0,
+      aborted: false
+    }
+  }
+}
+Mon, 13 Feb 2023 00:21:24 GMT test [1mPOST[0m [33m/api/spigraph[0m 200 385 bytes 28.212 ms
+Mon, 13 Feb 2023 00:21:27 GMT test [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 200 - bytes 1.582 ms
+Mon, 13 Feb 2023 00:21:28 GMT test [1mGET[0m [33m/api/appinfo[0m 200 - bytes 29.867 ms
+Mon, 13 Feb 2023 00:21:28 GMT test [1mGET[0m [33m/api/user/state/fieldHistorySpigraph[0m 200 2 bytes 0.536 ms
+ERROR - POST /api/spigraph ResponseError: parse_exception
+    at onBody (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:311:23)
+    at IncomingMessage.onEnd (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:240:11)
+    at IncomingMessage.emit (node:events:539:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  meta: {
+    body: {
+      error: {
+        root_cause: [
+          {
+            type: 'parse_exception',
+            reason: 'request body or source parameter is required'
+          }
+        ],
+        type: 'parse_exception',
+        reason: 'request body or source parameter is required'
+      },
+      status: 400
+    },
+    statusCode: 400,
+    headers: {
+      'x-opaque-id': 'test::4672ba02-b354-4d37-82c3-5f964c949dcd',
+      'content-type': 'application/json; charset=UTF-8',
+      'content-length': '203'
+    },
+    meta: {
+      context: null,
+      request: {
+        params: {
+          method: 'POST',
+          path: '/_msearch',
+          bulkBody: [],
+          querystring: 'rest_total_hits_as_int=true',
+          body: '',
+          headers: {
+            'user-agent': 'elasticsearch-js/7.10.0 (linux 5.4.0-139-generic-x64; Node.js v16.16.0)',
+            'x-opaque-id': 'test::4672ba02-b354-4d37-82c3-5f964c949dcd'
+          },
+          timeout: 330000
+        },
+        options: { opaqueId: 'test::4672ba02-b354-4d37-82c3-5f964c949dcd' },
+        id: 675
+      },
+      name: 'elasticsearch-js',
+      connection: {
+        url: 'https://192.168.249.148:9200/',
+        id: 'https://192.168.249.148:9200/',
+        headers: {},
+        deadCount: 0,
+        resurrectTimeout: 0,
+        _openRequests: 0,
+        status: 'alive',
+        roles: { master: true, data: true, ingest: true, ml: false }
+      },
+      attempts: 0,
+      aborted: false
+    }
+  }
+}
+Mon, 13 Feb 2023 00:21:28 GMT test [1mPOST[0m [33m/api/spigraph[0m 200 385 bytes 5.902 ms
+Mon, 13 Feb 2023 00:21:38 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.135 ms
+Mon, 13 Feb 2023 00:21:48 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 31.598 ms
+Mon, 13 Feb 2023 00:21:58 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.192 ms
+Mon, 13 Feb 2023 00:22:08 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 29.764 ms
+Mon, 13 Feb 2023 00:22:18 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.290 ms
+Mon, 13 Feb 2023 00:22:28 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.887 ms
+Mon, 13 Feb 2023 00:22:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.480 ms
+Mon, 13 Feb 2023 00:22:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.226 ms
+Mon, 13 Feb 2023 00:22:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.300 ms
+Mon, 13 Feb 2023 00:23:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.459 ms
+Mon, 13 Feb 2023 00:23:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 16.475 ms
+Mon, 13 Feb 2023 00:23:29 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.443 ms
+Mon, 13 Feb 2023 00:23:39 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.752 ms
+Mon, 13 Feb 2023 00:23:49 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 19.910 ms
+Mon, 13 Feb 2023 00:23:59 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.199 ms
+Mon, 13 Feb 2023 00:24:09 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 11.334 ms
+Mon, 13 Feb 2023 00:24:19 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.136 ms
+Mon, 13 Feb 2023 00:24:29 GMT test [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 200 - bytes 4.816 ms
+Mon, 13 Feb 2023 00:24:30 GMT test [1mGET[0m [33m/api/appinfo[0m 200 - bytes 753.870 ms
+Mon, 13 Feb 2023 00:24:30 GMT test [1mGET[0m [33m/api/user/state/fieldHistorySpigraph[0m 200 2 bytes 0.828 ms
+ERROR - POST /api/spigraph ResponseError: parse_exception
+    at onBody (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:311:23)
+    at IncomingMessage.onEnd (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:240:11)
+    at IncomingMessage.emit (node:events:539:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  meta: {
+    body: {
+      error: {
+        root_cause: [
+          {
+            type: 'parse_exception',
+            reason: 'request body or source parameter is required'
+          }
+        ],
+        type: 'parse_exception',
+        reason: 'request body or source parameter is required'
+      },
+      status: 400
+    },
+    statusCode: 400,
+    headers: {
+      'x-opaque-id': 'test::3e80c3dd-3f26-4734-8936-d85f1f36444d',
+      'content-type': 'application/json; charset=UTF-8',
+      'content-length': '203'
+    },
+    meta: {
+      context: null,
+      request: {
+        params: {
+          method: 'POST',
+          path: '/_msearch',
+          bulkBody: [],
+          querystring: 'rest_total_hits_as_int=true',
+          body: '',
+          headers: {
+            'user-agent': 'elasticsearch-js/7.10.0 (linux 5.4.0-139-generic-x64; Node.js v16.16.0)',
+            'x-opaque-id': 'test::3e80c3dd-3f26-4734-8936-d85f1f36444d'
+          },
+          timeout: 330000
+        },
+        options: { opaqueId: 'test::3e80c3dd-3f26-4734-8936-d85f1f36444d' },
+        id: 731
+      },
+      name: 'elasticsearch-js',
+      connection: {
+        url: 'https://192.168.249.148:9200/',
+        id: 'https://192.168.249.148:9200/',
+        headers: {},
+        deadCount: 0,
+        resurrectTimeout: 0,
+        _openRequests: 0,
+        status: 'alive',
+        roles: { master: true, data: true, ingest: true, ml: false }
+      },
+      attempts: 0,
+      aborted: false
+    }
+  }
+}
+Mon, 13 Feb 2023 00:24:30 GMT test [1mPOST[0m [33m/api/spigraph[0m 200 385 bytes 21.077 ms
+Mon, 13 Feb 2023 00:24:32 GMT test [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 200 - bytes 2.270 ms
+Mon, 13 Feb 2023 00:24:32 GMT test [1mGET[0m [33m/api/appinfo[0m 200 - bytes 19.016 ms
+Mon, 13 Feb 2023 00:24:32 GMT test [1mGET[0m [33m/api/user/state/fieldHistorySpigraph[0m 200 2 bytes 1.110 ms
+ERROR - POST /api/spigraph ResponseError: parse_exception
+    at onBody (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:311:23)
+    at IncomingMessage.onEnd (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:240:11)
+    at IncomingMessage.emit (node:events:539:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  meta: {
+    body: {
+      error: {
+        root_cause: [
+          {
+            type: 'parse_exception',
+            reason: 'request body or source parameter is required'
+          }
+        ],
+        type: 'parse_exception',
+        reason: 'request body or source parameter is required'
+      },
+      status: 400
+    },
+    statusCode: 400,
+    headers: {
+      'x-opaque-id': 'test::a8f1bf35-e40b-40a5-9dbd-bf271733bc87',
+      'content-type': 'application/json; charset=UTF-8',
+      'content-length': '203'
+    },
+    meta: {
+      context: null,
+      request: {
+        params: {
+          method: 'POST',
+          path: '/_msearch',
+          bulkBody: [],
+          querystring: 'rest_total_hits_as_int=true',
+          body: '',
+          headers: {
+            'user-agent': 'elasticsearch-js/7.10.0 (linux 5.4.0-139-generic-x64; Node.js v16.16.0)',
+            'x-opaque-id': 'test::a8f1bf35-e40b-40a5-9dbd-bf271733bc87'
+          },
+          timeout: 330000
+        },
+        options: { opaqueId: 'test::a8f1bf35-e40b-40a5-9dbd-bf271733bc87' },
+        id: 736
+      },
+      name: 'elasticsearch-js',
+      connection: {
+        url: 'https://192.168.249.148:9200/',
+        id: 'https://192.168.249.148:9200/',
+        headers: {},
+        deadCount: 0,
+        resurrectTimeout: 0,
+        _openRequests: 0,
+        status: 'alive',
+        roles: { master: true, data: true, ingest: true, ml: false }
+      },
+      attempts: 0,
+      aborted: false
+    }
+  }
+}
+Mon, 13 Feb 2023 00:24:32 GMT test [1mPOST[0m [33m/api/spigraph[0m 200 385 bytes 7.179 ms
+Mon, 13 Feb 2023 00:24:33 GMT test [1mGET[0m [33m/spigraph?statsTab=0&date=720[0m 200 - bytes 1.987 ms
+Mon, 13 Feb 2023 00:24:34 GMT test [1mGET[0m [33m/api/appinfo[0m 200 - bytes 18.400 ms
+Mon, 13 Feb 2023 00:24:34 GMT test [1mGET[0m [33m/api/user/state/fieldHistorySpigraph[0m 200 2 bytes 0.752 ms
+ERROR - POST /api/spigraph ResponseError: parse_exception
+    at onBody (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:311:23)
+    at IncomingMessage.onEnd (/opt/arkime/node_modules/@elastic/elasticsearch/lib/Transport.js:240:11)
+    at IncomingMessage.emit (node:events:539:35)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21) {
+  meta: {
+    body: {
+      error: {
+        root_cause: [
+          {
+            type: 'parse_exception',
+            reason: 'request body or source parameter is required'
+          }
+        ],
+        type: 'parse_exception',
+        reason: 'request body or source parameter is required'
+      },
+      status: 400
+    },
+    statusCode: 400,
+    headers: {
+      'x-opaque-id': 'test::4c6efa22-ae96-450f-85d5-15cadaa6bd51',
+      'content-type': 'application/json; charset=UTF-8',
+      'content-length': '203'
+    },
+    meta: {
+      context: null,
+      request: {
+        params: {
+          method: 'POST',
+          path: '/_msearch',
+          bulkBody: [],
+          querystring: 'rest_total_hits_as_int=true',
+          body: '',
+          headers: {
+            'user-agent': 'elasticsearch-js/7.10.0 (linux 5.4.0-139-generic-x64; Node.js v16.16.0)',
+            'x-opaque-id': 'test::4c6efa22-ae96-450f-85d5-15cadaa6bd51'
+          },
+          timeout: 330000
+        },
+        options: { opaqueId: 'test::4c6efa22-ae96-450f-85d5-15cadaa6bd51' },
+        id: 741
+      },
+      name: 'elasticsearch-js',
+      connection: {
+        url: 'https://192.168.249.148:9200/',
+        id: 'https://192.168.249.148:9200/',
+        headers: {},
+        deadCount: 0,
+        resurrectTimeout: 0,
+        _openRequests: 0,
+        status: 'alive',
+        roles: { master: true, data: true, ingest: true, ml: false }
+      },
+      attempts: 0,
+      aborted: false
+    }
+  }
+}
+Mon, 13 Feb 2023 00:24:34 GMT test [1mPOST[0m [33m/api/spigraph[0m 200 385 bytes 8.422 ms
+Mon, 13 Feb 2023 00:24:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.115 ms
+Mon, 13 Feb 2023 00:24:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.255 ms
+Mon, 13 Feb 2023 00:25:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 25.558 ms
+Mon, 13 Feb 2023 00:25:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.331 ms
+Mon, 13 Feb 2023 00:25:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.569 ms
+Mon, 13 Feb 2023 00:25:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.368 ms
+Mon, 13 Feb 2023 00:25:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.565 ms
+Mon, 13 Feb 2023 00:25:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.306 ms
+Mon, 13 Feb 2023 00:26:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.914 ms
+Mon, 13 Feb 2023 00:26:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.329 ms
+Mon, 13 Feb 2023 00:26:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 38.732 ms
+Mon, 13 Feb 2023 00:26:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.966 ms
+Mon, 13 Feb 2023 00:26:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.562 ms
+Mon, 13 Feb 2023 00:26:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 26.682 ms
+Mon, 13 Feb 2023 00:27:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.142 ms
+Mon, 13 Feb 2023 00:27:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 22.033 ms
+Mon, 13 Feb 2023 00:27:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.307 ms
+Mon, 13 Feb 2023 00:27:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 16.862 ms
+Mon, 13 Feb 2023 00:27:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.226 ms
+Mon, 13 Feb 2023 00:27:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.411 ms
+Mon, 13 Feb 2023 00:28:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.198 ms
+Mon, 13 Feb 2023 00:28:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.493 ms
+Mon, 13 Feb 2023 00:28:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.832 ms
+Mon, 13 Feb 2023 00:28:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.514 ms
+Mon, 13 Feb 2023 00:28:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 39.116 ms
+Mon, 13 Feb 2023 00:28:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.005 ms
+Mon, 13 Feb 2023 00:29:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 29.358 ms
+Mon, 13 Feb 2023 00:29:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.214 ms
+Mon, 13 Feb 2023 00:29:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 33.618 ms
+Mon, 13 Feb 2023 00:29:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.284 ms
+Mon, 13 Feb 2023 00:29:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.973 ms
+Mon, 13 Feb 2023 00:29:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.388 ms
+Mon, 13 Feb 2023 00:30:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.954 ms
+Mon, 13 Feb 2023 00:30:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.202 ms
+Mon, 13 Feb 2023 00:30:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.475 ms
+Mon, 13 Feb 2023 00:30:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.227 ms
+Mon, 13 Feb 2023 00:30:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 23.098 ms
+Mon, 13 Feb 2023 00:30:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.198 ms
+Mon, 13 Feb 2023 00:31:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.972 ms
+Mon, 13 Feb 2023 00:31:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.682 ms
+Mon, 13 Feb 2023 00:31:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.578 ms
+Mon, 13 Feb 2023 00:31:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.912 ms
+Mon, 13 Feb 2023 00:31:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.196 ms
+Mon, 13 Feb 2023 00:31:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.274 ms
+Mon, 13 Feb 2023 00:32:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 10.802 ms
+Mon, 13 Feb 2023 00:32:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.531 ms
+Mon, 13 Feb 2023 00:32:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.778 ms
+Mon, 13 Feb 2023 00:32:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 24.800 ms
+Mon, 13 Feb 2023 00:32:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.008 ms
+Mon, 13 Feb 2023 00:32:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.277 ms
+Mon, 13 Feb 2023 00:33:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 32.487 ms
+Mon, 13 Feb 2023 00:33:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.198 ms
+Mon, 13 Feb 2023 00:33:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.183 ms
+Mon, 13 Feb 2023 00:33:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.188 ms
+Mon, 13 Feb 2023 00:33:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.641 ms
+Mon, 13 Feb 2023 00:33:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.047 ms
+Mon, 13 Feb 2023 00:34:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.772 ms
+Mon, 13 Feb 2023 00:34:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 7.662 ms
+Mon, 13 Feb 2023 00:34:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.193 ms
+Mon, 13 Feb 2023 00:34:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.233 ms
+Mon, 13 Feb 2023 00:34:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 18.355 ms
+Mon, 13 Feb 2023 00:34:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.194 ms
+Mon, 13 Feb 2023 00:35:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 16.489 ms
+Mon, 13 Feb 2023 00:35:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.206 ms
+Mon, 13 Feb 2023 00:35:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 28.624 ms
+Mon, 13 Feb 2023 00:35:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.194 ms
+Mon, 13 Feb 2023 00:35:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 18.161 ms
+Mon, 13 Feb 2023 00:35:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.200 ms
+Mon, 13 Feb 2023 00:36:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.522 ms
+Mon, 13 Feb 2023 00:36:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 24.421 ms
+Mon, 13 Feb 2023 00:36:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.127 ms
+Mon, 13 Feb 2023 00:36:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.514 ms
+Mon, 13 Feb 2023 00:36:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.144 ms
+Mon, 13 Feb 2023 00:36:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 189.082 ms
+Mon, 13 Feb 2023 00:37:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.208 ms
+Mon, 13 Feb 2023 00:37:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 32.341 ms
+Mon, 13 Feb 2023 00:37:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.969 ms
+Mon, 13 Feb 2023 00:37:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 6.313 ms
+Mon, 13 Feb 2023 00:37:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 13.887 ms
+Mon, 13 Feb 2023 00:37:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.191 ms
+Mon, 13 Feb 2023 00:38:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.515 ms
+Mon, 13 Feb 2023 00:38:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 17.344 ms
+Mon, 13 Feb 2023 00:38:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.963 ms
+Mon, 13 Feb 2023 00:38:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.306 ms
+Mon, 13 Feb 2023 00:38:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 19.025 ms
+Mon, 13 Feb 2023 00:38:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.238 ms
+Mon, 13 Feb 2023 00:39:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.614 ms
+Mon, 13 Feb 2023 00:39:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 28.788 ms
+Mon, 13 Feb 2023 00:39:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.214 ms
+Mon, 13 Feb 2023 00:39:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.321 ms
+Mon, 13 Feb 2023 00:39:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 27.257 ms
+Mon, 13 Feb 2023 00:39:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.399 ms
+Mon, 13 Feb 2023 00:40:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.728 ms
+Mon, 13 Feb 2023 00:40:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 25.970 ms
+Mon, 13 Feb 2023 00:40:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.076 ms
+Mon, 13 Feb 2023 00:40:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.856 ms
+Mon, 13 Feb 2023 00:40:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.204 ms
+Mon, 13 Feb 2023 00:40:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 32.459 ms
+Mon, 13 Feb 2023 00:41:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.260 ms
+Mon, 13 Feb 2023 00:41:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.961 ms
+Mon, 13 Feb 2023 00:41:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.259 ms
+Mon, 13 Feb 2023 00:41:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.037 ms
+Mon, 13 Feb 2023 00:41:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 17.056 ms
+Mon, 13 Feb 2023 00:41:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.269 ms
+Mon, 13 Feb 2023 00:42:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.689 ms
+Mon, 13 Feb 2023 00:42:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 1.523 ms
+Mon, 13 Feb 2023 00:42:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 6.863 ms
+Mon, 13 Feb 2023 00:42:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.224 ms
+Mon, 13 Feb 2023 00:42:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 24.212 ms
+Mon, 13 Feb 2023 00:42:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.204 ms
+Mon, 13 Feb 2023 00:43:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 8.775 ms
+Mon, 13 Feb 2023 00:43:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 12.385 ms
+Mon, 13 Feb 2023 00:43:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.995 ms
+Mon, 13 Feb 2023 00:43:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 27.181 ms
+Mon, 13 Feb 2023 00:43:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.358 ms
+Mon, 13 Feb 2023 00:43:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 30.638 ms
+Mon, 13 Feb 2023 00:44:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.274 ms
+Mon, 13 Feb 2023 00:44:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 17.063 ms
+Mon, 13 Feb 2023 00:44:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.955 ms
+Mon, 13 Feb 2023 00:44:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 25.382 ms
+Mon, 13 Feb 2023 00:44:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.541 ms
+Mon, 13 Feb 2023 00:44:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 6.685 ms
+Mon, 13 Feb 2023 00:45:04 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.233 ms
+Mon, 13 Feb 2023 00:45:14 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 9.188 ms
+Mon, 13 Feb 2023 00:45:24 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 32.542 ms
+Mon, 13 Feb 2023 00:45:34 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.198 ms
+Mon, 13 Feb 2023 00:45:44 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 31.715 ms
+Mon, 13 Feb 2023 00:45:54 GMT - [1mGET[0m [33m/api/eshealth[0m 200 531 bytes 0.198 ms
+WARNING - No cronQueries=true found in /opt/arkime/etc/config.ini, one and only one node MUST have cronQueries=true set for cron/hunts to work
+Express server listening on port 8005 in development mode

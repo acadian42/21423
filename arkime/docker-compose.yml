@@ -1,0 +1,30 @@
+version: '2.2'
+services:
+  arkime:
+    image: mines:latest
+    user: root
+    network_mode: host
+    container_name: arkime01
+    privileged: true
+    cap_add: 
+      - ALL
+    environment:
+            #- OS_HOST=admin:admin@192.168.249.149,admin:admin@192.168.249.148,admin:admin@192.168.249.153
+      - OS_HOST=admin:admin@192.168.249.148
+            #- ARKIME_ELASTICSEARCH=https://192.168.249.149,192.168.249.148,192.168.249.153
+      - OS_PORT=9200
+      - ARKIME_INTERFACE=ens33
+      - ARKIMEDIR=/opt/arkime
+      - ARKIME_INSTALL_DIR=/opt/arkime/raw
+      - ARKIME_HOSTNAME=ARKIMErec01
+      - CAPTURE=on
+    volumes:
+      - ./logs:/data/logs
+      - ./os_pcap:/data/pcap
+      - ./config.ini:/opt/arkime/etc/config.ini
+      - /cores/cores
+    ulimits:
+      core:
+        soft: -1
+        hard: -1
+      memlock: -1

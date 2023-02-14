@@ -1,0 +1,28 @@
+x-os_instance: &_os_instance
+services:
+    arkime:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        depends_on:
+            - $OS_NODE1
+            - $OS_NODE2
+        environment:
+            - OS_HOST=$OS_NODE1
+            - OS_PORT=9200
+        ports:
+            - $ARKIME_PORT:8005
+        volumes:
+            - arkime_config:/data/config
+            - arkime_logs:/data/logs
+            - $PCAP_DIR:/data/pcap
+        networks:
+            - arkime-os
+
+volumes:
+    arkime_config:
+    arkime_logs:
+
+
+networks:
+    arkime-os:

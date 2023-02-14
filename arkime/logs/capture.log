@@ -1,0 +1,88 @@
+Feb 10 14:48:26 main.c:198 parse_args(): WARNING - glib compiled 2.72.1 vs linked 2.72.4
+Feb 10 14:48:26 main.c:867 main(): 
+
+DON'T DO IT!!!! `--insecure` is a bad idea
+
+
+Feb 10 14:48:27 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/_template/arkime_sessions3_template?filter_path=**._meta 0/75 0ms 9ms
+Feb 10 14:48:27 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 0/69 0ms 2ms
+Feb 10 14:48:27 http.c:301 moloch_http_send_sync(): 1/1 SYNC 201 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01?version_type=external&version=100 2/167 0ms 7ms
+Feb 10 14:48:27 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 2/167 0ms 12ms
+Feb 10 14:48:27 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_stats/_doc/ARKIMErec01 0/63 0ms 3ms
+Feb 10 14:48:27 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_fields/_search?size=3000 0/12975 0ms 5ms
+Feb 10 14:48:27 db.c:2647 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://arkime.com/settings#geolite2country
+Feb 10 14:48:27 db.c:2658 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://arkime.com/settings#geolite2asn
+FATAL CONFIG ERROR - Couldn't stat oui file file ARKIME_INSTALL_DIR/etc/oui.txt error No such file or directory. ERROR - Maybe try running /opt/arkime/bin/moloch_update_geo.sh
+Feb 10 14:51:56 main.c:198 parse_args(): WARNING - glib compiled 2.72.1 vs linked 2.72.4
+Feb 10 14:51:56 main.c:867 main(): 
+
+DON'T DO IT!!!! `--insecure` is a bad idea
+
+
+Feb 10 14:51:56 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/_template/arkime_sessions3_template?filter_path=**._meta 0/75 0ms 10ms
+Feb 10 14:51:56 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 0/69 0ms 5ms
+Feb 10 14:51:57 http.c:301 moloch_http_send_sync(): 1/1 SYNC 201 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01?version_type=external&version=100 2/167 0ms 11ms
+Feb 10 14:51:57 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 2/167 0ms 11ms
+Feb 10 14:51:57 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_stats/_doc/ARKIMErec01 0/63 0ms 3ms
+Feb 10 14:51:57 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_fields/_search?size=3000 0/12975 0ms 6ms
+Feb 10 14:51:57 db.c:2647 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://arkime.com/settings#geolite2country
+Feb 10 14:51:57 db.c:2658 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://arkime.com/settings#geolite2asn
+FATAL CONFIG ERROR - Couldn't stat oui file file ARKIME_INSTALL_DIR/etc/oui.txt error No such file or directory. ERROR - Maybe try running /opt/arkime/bin/moloch_update_geo.sh
+Feb 10 15:00:20 main.c:198 parse_args(): WARNING - glib compiled 2.72.1 vs linked 2.72.4
+Feb 10 15:00:20 main.c:867 main(): 
+
+DON'T DO IT!!!! `--insecure` is a bad idea
+
+
+Feb 10 15:00:20 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/_template/arkime_sessions3_template?filter_path=**._meta 0/75 0ms 8ms
+Feb 10 15:00:20 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 0/69 0ms 4ms
+Feb 10 15:00:20 http.c:301 moloch_http_send_sync(): 1/1 SYNC 201 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01?version_type=external&version=100 2/167 0ms 8ms
+Feb 10 15:00:20 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 2/167 0ms 8ms
+Feb 10 15:00:20 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_stats/_doc/ARKIMErec01 0/63 0ms 2ms
+Feb 10 15:00:20 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_fields/_search?size=3000 0/12975 0ms 4ms
+Feb 10 15:00:20 db.c:2647 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://arkime.com/settings#geolite2country
+Feb 10 15:00:20 db.c:2658 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://arkime.com/settings#geolite2asn
+FATAL CONFIG ERROR - Couldn't stat oui file file ARKIME_INSTALL_DIR/etc/oui.txt error No such file or directory. ERROR - Maybe try running /opt/arkime/bin/moloch_update_geo.sh
+Feb 12 23:36:40 main.c:198 parse_args(): WARNING - glib compiled 2.72.1 vs linked 2.72.4
+Feb 12 23:36:40 main.c:867 main(): 
+
+DON'T DO IT!!!! `--insecure` is a bad idea
+
+
+Feb 12 23:36:41 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/_template/arkime_sessions3_template?filter_path=**._meta 0/75 1ms 225ms
+Feb 12 23:36:41 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 0/113 0ms 17ms
+Feb 12 23:36:41 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 2/167 0ms 83ms
+Feb 12 23:36:41 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_stats/_doc/ARKIMErec01 0/63 0ms 14ms
+Feb 12 23:36:41 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_fields/_search?size=3000 0/12976 0ms 97ms
+Feb 12 23:36:41 db.c:2647 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://arkime.com/settings#geolite2country
+Feb 12 23:36:41 db.c:2658 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://arkime.com/settings#geolite2asn
+FATAL CONFIG ERROR - Couldn't stat oui file file ARKIME_INSTALL_DIR/etc/oui.txt error No such file or directory. ERROR - Maybe try running /opt/arkime/bin/moloch_update_geo.sh
+Feb 12 23:37:36 main.c:198 parse_args(): WARNING - glib compiled 2.72.1 vs linked 2.72.4
+Feb 12 23:37:36 main.c:867 main(): 
+
+DON'T DO IT!!!! `--insecure` is a bad idea
+
+
+Feb 12 23:37:36 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/_template/arkime_sessions3_template?filter_path=**._meta 0/75 1ms 12ms
+Feb 12 23:37:36 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 0/113 0ms 34ms
+Feb 12 23:37:36 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 2/167 0ms 17ms
+Feb 12 23:37:36 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_stats/_doc/ARKIMErec01 0/63 0ms 5ms
+Feb 12 23:37:36 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_fields/_search?size=3000 0/12975 0ms 6ms
+Feb 12 23:37:36 db.c:2647 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://arkime.com/settings#geolite2country
+Feb 12 23:37:36 db.c:2658 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://arkime.com/settings#geolite2asn
+FATAL CONFIG ERROR - Couldn't stat oui file file ARKIME_INSTALL_DIR/etc/oui.txt error No such file or directory. ERROR - Maybe try running /opt/arkime/bin/moloch_update_geo.sh
+Feb 13 18:54:08 main.c:198 parse_args(): WARNING - glib compiled 2.72.1 vs linked 2.72.4
+Feb 13 18:54:08 main.c:867 main(): 
+
+DON'T DO IT!!!! `--insecure` is a bad idea
+
+
+Feb 13 18:54:09 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/_template/arkime_sessions3_template?filter_path=**._meta 0/75 1ms 199ms
+Feb 13 18:54:09 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 0/69 0ms 18ms
+Feb 13 18:54:09 http.c:301 moloch_http_send_sync(): 1/1 SYNC 201 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01?version_type=external&version=100 2/167 0ms 60ms
+Feb 13 18:54:09 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_sequence/_doc/fn-ARKIMErec01 2/167 0ms 26ms
+Feb 13 18:54:09 http.c:301 moloch_http_send_sync(): 1/1 SYNC 404 https://admin:admin@192.168.249.148:9200/arkime_stats/_doc/ARKIMErec01 0/63 0ms 6ms
+Feb 13 18:54:09 http.c:301 moloch_http_send_sync(): 1/1 SYNC 200 https://admin:admin@192.168.249.148:9200/arkime_fields/_search?size=3000 0/12976 0ms 53ms
+Feb 13 18:54:09 db.c:2647 moloch_db_init(): WARNING - No Geo Country file could be loaded, see https://arkime.com/settings#geolite2country
+Feb 13 18:54:09 db.c:2658 moloch_db_init(): WARNING - No Geo ASN file could be loaded, see https://arkime.com/settings#geolite2asn
+FATAL CONFIG ERROR - Couldn't stat oui file file ARKIME_INSTALL_DIR/etc/oui.txt error No such file or directory. ERROR - Maybe try running /opt/arkime/bin/moloch_update_geo.sh
